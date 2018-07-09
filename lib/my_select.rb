@@ -7,6 +7,6 @@ def my_select(array)
      nums << array[i]
    end
      i += 1
-end
+   end
  nums
 end
